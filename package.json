@@ -1,0 +1,16 @@
+{
+  "name": "openwhisk-function-error-handler",
+  "version": "1.0.0",
+  "description": "Default error handling for an openwhisk action",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Janinf/openwhisk-function-error-handler"
+  },
+  "bugs": {
+    "url": "https://github.com/Janinf/openwhisk-function-error-handler/issues"
+  },
+  "homepage": "https://github.com/Janinf/openwhisk-function-error-handler/blob/master/README.md",
+  "author": "Jan Armbruster",
+  "license": "MIT"
+}
